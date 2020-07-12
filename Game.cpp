@@ -325,7 +325,6 @@ bool Game::Victory() {
 		moveLeft = false;
 		return true;
 	}
-
 	return false;
 
 }
